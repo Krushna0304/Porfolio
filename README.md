@@ -4,12 +4,12 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 
 ## 🚀 Features
 
-- 🔹 Single Page Layout
-- 🔹 Responsive Design for all screen sizes
-- 🔹 Smooth scrolling navigation
-- 🔹 Animated UI elements using Tailwind and JavaScript
-- 🔹 Clean and modern interface
-- 🔹 Contact section with form
+ 🔹 Single Page Layout
+ 🔹 Responsive Design for all screen sizes
+ 🔹 Smooth scrolling navigation
+ 🔹 Animated UI elements using Tailwind and JavaScript
+ 🔹 Clean and modern interface
+ 🔹 Contact section with form
 
 ## 🛠️ Tech Stack
 
@@ -37,10 +37,9 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 
 ## 🧑‍💻 Author
 
-- **Your Name**
-- Portfolio: [yourdomain.com](https://yourdomain.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Krushna Salbande**
+- GitHub: [@yourusername](https://github.com/Krushna0304)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/krushna-salbande)
 
 ## 📜 License
 
