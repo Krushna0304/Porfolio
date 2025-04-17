@@ -16,12 +16,6 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 - **HTML5** – for semantic markup
 - **CSS3** – for styling
 
-## 📸 Preview
-
-![Portfolio Preview](screenshot.png)
-
-> *(Optional: Add a GIF or live link preview if hosted)*
-
 ## 📂 Folder Structure
 
 /portfolio/ │ ├── index.html ├── /css/ │ └── styles.css  ├── /assets/ │ ├── images/ │ └── icons/
@@ -35,13 +29,10 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 ## 🧑‍💻 Author
 
 - **Krushna Salbande**
-- Portfolio: [yourdomain.com](https://porfolio-sable-psi.vercel.app/)
+- Portfolio: [KrushnaSalbande.com](https://porfolio-sable-psi.vercel.app/)
 - GitHub: [@Krushna0304](https://github.com/Krushna0304)
-- LinkedIn: [linkedin.com/in/krushna-salbandehttps://www.linkedin.com/in/krushna-salbande)
+- LinkedIn: [@krushna-salbande]https://www.linkedin.com/in/krushna-salbande)
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
