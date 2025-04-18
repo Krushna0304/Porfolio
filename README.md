@@ -23,7 +23,7 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 
 ## 🌐 Live Demo
 
-> [Click here to view live](https://porfolio-sable-psi.vercel.app/))  
+> [Click here to view live](https://krushnasalbande.vercel.app/))  
 
 
 ## 🧑‍💻 Author
