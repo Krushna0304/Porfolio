@@ -471,3 +471,23 @@ main {
         margin-bottom: 2rem;
     }
 }
+
+@media (max-width: 480px) {
+    .image-placeholder {
+        width: 150px;
+        height: 150px;
+    }
+
+    .about-text p {
+        font-size: 0.95rem;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    .nav a {
+        font-size: 0.95rem;
+    }
+}
+
