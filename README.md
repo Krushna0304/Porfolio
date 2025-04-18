@@ -23,15 +23,15 @@ This is a **responsive single-page portfolio website** built using **HTML**, **C
 
 ## 🌐 Live Demo
 
-> [Click here to view live](https://github.com/Krushna0304/Porfolio)  
-*(Replace with your actual GitHub Pages URL)*
+> [Click here to view live](https://porfolio-sable-psi.vercel.app/))  
+
 
 ## 🧑‍💻 Author
 
 - **Krushna Salbande**
-- Portfolio: [KrushnaSalbande.com](https://porfolio-sable-psi.vercel.app/)
 - GitHub: [@Krushna0304](https://github.com/Krushna0304)
-- LinkedIn: [@krushna-salbande]https://www.linkedin.com/in/krushna-salbande)
+- Sketchfab :[@Krunity](https://sketchfab.com/krunity)
+- LinkedIn: [@krushna-salbande](https://www.linkedin.com/in/krushna-salbande)
 
 
 ---
